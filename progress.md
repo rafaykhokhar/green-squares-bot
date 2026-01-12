@@ -389,3 +389,4 @@
 [2026-01-12 05:51:35 PM] Consistency is more important than intensity.
 [2026-01-12 09:28:28 PM] You’re one step closer to your goal.
 [2026-01-12 09:28:28 PM] Progress, not perfection.
+[2026-01-12 09:28:28 PM] Just showing up matters.
